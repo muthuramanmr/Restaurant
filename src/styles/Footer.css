@@ -1,0 +1,63 @@
+.footer {
+    width: 100%;
+    height: 200px;
+    background-color: #121619;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 10px;
+  }
+  
+  .socialMedia svg {
+    color: white;
+    margin: 20px;
+    font-size: 70px;
+    cursor: pointer;
+  }
+  
+  .footer p {
+    color: white;
+  }
+
+.icong{
+  &:hover{
+    background: white;
+    color:black;
+  }
+  &:active{
+    color:rgb(255, 0, 166);
+  }
+}
+
+.icont{
+  &:hover{
+    background: white;
+    color:black;
+  }
+  &:active{
+    color:rgb(81, 223, 255);
+  }
+}
+
+.iconf{
+  &:hover{
+    background: white;
+    color:black;
+  }
+  &:active{
+    color:rgb(1, 99, 255);
+  }
+}
+
+.iconi{
+  &:hover{
+    background: white;
+    color:black;
+  }
+  &:active{
+    color:#0a66c2;
+  }
+ 
+}
+
