@@ -4,7 +4,7 @@ import TwitterIcon from "@mui/icons-material/Twitter"
 import FacebookIcon from "@mui/icons-material/Facebook"
 import LinkedInIcon from "@mui/icons-material/LinkedIn"
 import "../styles/Footer.css"
-import { blue } from '@mui/material/colors'
+
 
 function Footer() {
   return (
